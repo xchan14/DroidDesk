@@ -123,8 +123,8 @@ setup_environment() {
     echo ""
 
     # ── Hardcoded to XFCE4 (DroidDesk default) ──
-    DE_CHOICE="1"
-    DE_NAME="XFCE4"
+    DE_CHOICE="4"
+    DE_NAME="KDE"
     echo -e "${GREEN}[+] Desktop: ${DE_NAME} (default)${NC}"
 
     # --- Multi-DE selection (commented out for now) ---
